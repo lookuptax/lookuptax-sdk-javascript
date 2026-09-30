@@ -2,6 +2,8 @@
 
 Validate tax IDs — VAT, EIN, GSTIN, ABN and more — against official government registries.
 
+[lookuptax.com](https://lookuptax.com)
+
 Written in TypeScript, published with compiled JS and type definitions, so JavaScript and TypeScript projects both consume it the same way.
 
 ```bash
