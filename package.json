@@ -1,6 +1,6 @@
 {
   "name": "@lookuptax/sdk",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Official LookupTax SDK — validate tax IDs (VAT, EIN, GSTIN, ABN…) against government registries.",
   "license": "MIT",
   "type": "module",
